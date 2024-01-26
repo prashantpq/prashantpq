@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prashant Sharma</h1>
+<h3 align="center">I'm currently majoring in AI and Machine Learning specialization</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantpq&label=Profile%20views&color=0e75b6&style=flat" alt="prashantpq" /> </p>
 
-- 🌱 I’m currently learning **AI and Machine Learning**
+- 🌱 I’m currently learning **Recurrent Neural Network**
 
 - 💬 Ask me about **ML | DL | Data Science**
 
