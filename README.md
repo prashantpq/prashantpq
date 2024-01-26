@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Sharma</h1>
-<h3 align="center">I'm currently majoring in AI and Machine Learning specialization</h3>
+<h3 align="center">I'm currently majoring in AI and Machine Learning specialisation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantpq&label=Profile%20views&color=0e75b6&style=flat" alt="prashantpq" /> </p>
 
@@ -8,6 +8,8 @@
 - 💬 Ask me about **ML Algorithms | DL | Data Science**
 
 - 📫 How to reach me **Prashant.ps9833@gmail.com**
+
+- ⚡ Fun fact **I can imagine mathematical equations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
