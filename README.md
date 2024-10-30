@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Prashant.ps9833@gmail.com**
 
-- ⚡ Fun fact **: I can imagine mathematical equations**
+- ⚡ Fun fact **: I can visualize mathematical equations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
