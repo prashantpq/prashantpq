@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Recurrent Neural Network**
 
-- 💬 Ask me about **ML Algorithms | DL | Data Science**
+- 💬 Ask me about **ML Algorithms | DL | Data Science | Data Analytics**
 
 - 📫 How to reach me **Prashant.ps9833@gmail.com**
 
