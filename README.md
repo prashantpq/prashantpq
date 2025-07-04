@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantpq&label=Profile%20views&color=0e75b6&style=flat" alt="prashantpq" /> </p>
 
-- 🌱 I’m currently learning **Recurrent Neural Network**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **ML Algorithms | DL | Data Science | Data Analytics**
 
