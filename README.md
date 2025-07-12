@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **ML Algorithms | DL | Data Science | Data Analytics**
+- 💬 Ask me about **ML Algorithms | DL | Generative AI | Agentic AI**
 
 - 📫 How to reach me **Prashant.ps9833@gmail.com**
 
